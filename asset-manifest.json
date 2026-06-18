@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studentextracurricularactivities/static/css/main.fff64b52.css",
+    "main.js": "/studentextracurricularactivities/static/js/main.8a0b2cbf.js",
+    "static/js/453.20359781.chunk.js": "/studentextracurricularactivities/static/js/453.20359781.chunk.js",
+    "index.html": "/studentextracurricularactivities/index.html",
+    "main.fff64b52.css.map": "/studentextracurricularactivities/static/css/main.fff64b52.css.map",
+    "main.8a0b2cbf.js.map": "/studentextracurricularactivities/static/js/main.8a0b2cbf.js.map",
+    "453.20359781.chunk.js.map": "/studentextracurricularactivities/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fff64b52.css",
+    "static/js/main.8a0b2cbf.js"
+  ]
+}
