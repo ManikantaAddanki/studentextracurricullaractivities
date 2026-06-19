@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/studentextracurricularactivities/static/css/main.221b3299.css",
+    "main.js": "/studentextracurricularactivities/static/js/main.7db3c477.js",
+    "static/js/453.20359781.chunk.js": "/studentextracurricularactivities/static/js/453.20359781.chunk.js",
+    "static/media/yoga.jpg": "/studentextracurricularactivities/static/media/yoga.3eecb6fc8095efb2bf20.jpg",
+    "static/media/tennis.png": "/studentextracurricularactivities/static/media/tennis.e7729df195728f1b56c1.png",
+    "static/media/hockey.png": "/studentextracurricularactivities/static/media/hockey.e8502a75c9baa51adc04.png",
+    "static/media/tabletennis.png": "/studentextracurricularactivities/static/media/tabletennis.400902b4dbf8fa8bf5ac.png",
+    "static/media/football.jpg": "/studentextracurricularactivities/static/media/football.52571f667228ea689c3f.jpg",
+    "index.html": "/studentextracurricularactivities/index.html",
+    "main.221b3299.css.map": "/studentextracurricularactivities/static/css/main.221b3299.css.map",
+    "main.7db3c477.js.map": "/studentextracurricularactivities/static/js/main.7db3c477.js.map",
+    "453.20359781.chunk.js.map": "/studentextracurricularactivities/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221b3299.css",
+    "static/js/main.7db3c477.js"
+  ]
+}
