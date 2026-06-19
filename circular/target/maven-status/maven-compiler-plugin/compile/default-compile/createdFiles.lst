@@ -1,0 +1,6 @@
+com\atlas\circular\repository\userdb.class
+com\atlas\circular\repository\clubdb.class
+com\atlas\circular\service\clubs.class
+com\atlas\circular\controller\Rlserver.class
+com\atlas\circular\CircularApplication.class
+com\atlas\circular\service\user.class
